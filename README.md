@@ -23,8 +23,8 @@ There are 7 operating states specified in the dataset_generation.py:
 - Line bus5-6 disconnected during low load: Use low load profile, disconnect line bus5-6
 
 All the results from simulated timeseries power flow will then be stored in two excel files:
-- dataset.xlxs (all dataset shown in pu for voltage magnitude and degree in voltage angle)
-- dataset_norm_labeled.xlxs (normalized dataset with label, will be used for the machine learning algorithms)
+- dataset.xlsx (all dataset shown in pu for voltage magnitude and degree in voltage angle)
+- dataset_norm_labeled.xlsx (normalized dataset with label, will be used for the machine learning algorithms)
 
 For k-means: 
 All dataset will be used as input
