@@ -5,13 +5,13 @@ The purpose of assingnment 2 is to combine machine learning techniques with time
 
 The single line diagram of power system under study is shown below:
 ![sld](https://user-images.githubusercontent.com/33414239/172237366-78c9a788-d11b-4cbd-b8a2-e6eca24fad89.png)
-9 Buses
-1 Slack Bus
-3 Generator Buses
-3 Load Buses
-All bus are 110 kV
-All lines are 10 km length each
-All lines are configured using standard type: "149-AL1/24-ST1A"
+- 9 Buses
+- 1 Slack Bus
+- 3 Generator Buses
+- 3 Load Buses
+- All bus are 110 kV
+- All lines are 10 km length each
+- All lines are configured using standard type: "149-AL1/24-ST1A"
 
 There are 7 operating states specified in the dataset_generation.py:
 - Normal load: P and Q is set as nominal value, and add some noise with a standard deviation of about 5-10% of the nominal values.
