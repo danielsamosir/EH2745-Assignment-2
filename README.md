@@ -34,4 +34,4 @@ dataset_norm_labeled will be splitted into training data (80%) and test data (20
 
 To use the code, run main.py. A GUI window will show up for the user to select between two algorithms. For KNN, you have to select the number of k used in the calculation. Note that the k-means algorithm could take some time to run. The code then will show the plot of 2-dimensions data of each bus. You have to close the figure to make the code continue to the next step.
 
-The implementation of k-means and K nearest neighbour algoritms is inspired by Youtuber: Python Engineer (https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+The implementation of k-means and K nearest neighbour algoritms is inspired by Youtuber: Python Engineer (https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
